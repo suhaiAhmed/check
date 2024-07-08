@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+.bg-image{
+    background: url("./bg-images/7131575_11857\ 2.png");
+    height: 70vh ;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+/* .bg-2{
+    background: url(./bg-images/Unfamiliar-applications-of-Neural-Network.png);
+    height: 70vh ;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+} */
+
+.bg{
+    background-color: rgba(193, 241, 245, 0.3);
+    padding: 5px;
+}
+
+
